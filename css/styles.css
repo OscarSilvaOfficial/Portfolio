@@ -10259,3 +10259,11 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #1a252f;
 }
+
+/* Minhas alterações */
+
+#logo-img {
+  border-radius: 50pc;
+  opacity: 1;
+	box-shadow: 15px 15px 100px 5px #000000;
+}
