@@ -392,6 +392,7 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  color: #2c3e50;
 }
 
 .display-1 {
@@ -5519,6 +5520,7 @@ a.close.disabled {
   position: relative;
   flex: 1 1 auto;
   padding: 4rem 1rem;
+  width: 100%;
 }
 
 .modal-footer {
@@ -10273,4 +10275,8 @@ form .row:first-child .floating-label-form-group {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+}
+
+#portfolio {
+  background: #75cbf9;
 }
